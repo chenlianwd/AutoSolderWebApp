@@ -61,3 +61,8 @@ E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\PS.Web.Release\Bi
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.csprojResolveAssemblyReference.cache
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.dll
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.pdb
+E:\package1\AutosolderWebApp\PS.Web.Release\Bin\PS.DAL.MySql.dll
+E:\package1\AutosolderWebApp\PS.Web.Release\Bin\PS.DAL.MySql.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.csprojResolveAssemblyReference.cache
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.dll
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.MySql\obj\Debug\PS.DAL.MySql.pdb

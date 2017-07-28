@@ -49,3 +49,8 @@ E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\PS.Web.Release\Bi
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.csprojResolveAssemblyReference.cache
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.dll
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.pdb
+E:\package1\AutosolderWebApp\PS.Web.Release\Bin\PS.DAL.SqlServer.dll
+E:\package1\AutosolderWebApp\PS.Web.Release\Bin\PS.DAL.SqlServer.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.csprojResolveAssemblyReference.cache
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.dll
+E:\package1\AutosolderWebApp\Reference_Projects\PS.DAL.SqlServer\obj\Debug\PS.DAL.SqlServer.pdb

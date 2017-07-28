@@ -33,3 +33,8 @@ E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Project
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Debug\PS.Common.csprojResolveAssemblyReference.cache
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Debug\PS.Common.dll
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Debug\PS.Common.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\PS.Common\bin\Debug\PS.Common.dll
+E:\package1\AutosolderWebApp\Reference_Projects\PS.Common\bin\Debug\PS.Common.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\PS.Common\obj\Debug\PS.Common.csprojResolveAssemblyReference.cache
+E:\package1\AutosolderWebApp\Reference_Projects\PS.Common\obj\Debug\PS.Common.dll
+E:\package1\AutosolderWebApp\Reference_Projects\PS.Common\obj\Debug\PS.Common.pdb

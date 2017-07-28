@@ -51,3 +51,10 @@ E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Project
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.csproj.GenerateResource.Cache
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.dll
 E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\PS.Web.Release\Bin\MySql.Data.dll
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\PS.Web.Release\Bin\MySql.Data.pdb
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.csprojResolveAssemblyReference.cache
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.MySqlClient.Properties.Resources.resources
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.csproj.GenerateResource.Cache
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.dll
+E:\package1\AutosolderWebApp\Reference_Projects\MySql\Source\MySql.Data\obj\v4.0\MySql.Data.pdb

@@ -751,4 +751,19 @@
     <engText>export</engText>
     <chsText>导出</chsText>
   </Language>
+  <Language>
+    <stringName>Autosolder_SettingAdd</stringName>
+    <engText>add</engText>
+    <chsText>增加</chsText>
+  </Language>
+  <Language>
+    <stringName>Autosolder_SettingRemove</stringName>
+    <engText>Remove</engText>
+    <chsText>删除</chsText>
+  </Language>
+  <Language>
+    <stringName>Autosolder_SettingSave</stringName>
+    <engText>Save</engText>
+    <chsText>保存</chsText>
+  </Language>
 </NewDataSet>
