@@ -1,0 +1,34 @@
+F:\program\AutoSolder\WebApplication1\AutoSolder.Model\bin\Debug\AutoSolder.Model.dll
+F:\program\AutoSolder\WebApplication1\AutoSolder.Model\bin\Debug\AutoSolder.Model.pdb
+F:\program\AutoSolder\WebApplication1\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+F:\program\AutoSolder\WebApplication1\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+F:\program\AutoSolder\WebApplication1\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.MySql\bin\Debug\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.MySql\bin\Debug\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\bin\Debug\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\bin\Debug\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\PS.Web.Release\Bin\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\PS.Web.Release\Bin\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+F:\program\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+E:\program\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.dll
+E:\program\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.pdb
+E:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+E:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb
+E:\program\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\PS.Web.Release\Bin\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Debug\AutoSolder.Model.pdb

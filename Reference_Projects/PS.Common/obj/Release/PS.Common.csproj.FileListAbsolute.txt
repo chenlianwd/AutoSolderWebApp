@@ -1,0 +1,15 @@
+D:\Develop_Projects\PS\Reference_Projects\PS.Common\bin\Release\PS.Common.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.Common\bin\Release\PS.Common.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.Common\obj\Release\PS.Common.csprojResolveAssemblyReference.cache
+D:\Develop_Projects\PS\Reference_Projects\PS.Common\obj\Release\PS.Common.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.Common\obj\Release\PS.Common.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.Common\bin\Release\PS.Common.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.Common\bin\Release\PS.Common.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.Common\obj\Release\PS.Common.csprojResolveAssemblyReference.cache
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.Common\obj\Release\PS.Common.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.Common\obj\Release\PS.Common.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\bin\Release\PS.Common.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\bin\Release\PS.Common.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Release\PS.Common.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Release\PS.Common.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.Common\obj\Release\PS.Common.pdb

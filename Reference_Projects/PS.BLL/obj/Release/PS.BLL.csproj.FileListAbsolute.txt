@@ -1,0 +1,30 @@
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\PS.BLL.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\PS.BLL.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\obj\Release\PS.BLL.csprojResolveAssemblyReference.cache
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\obj\Release\PS.BLL.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\obj\Release\PS.BLL.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\PS.Common.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\PS.Common.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\MySql.Data.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\MySql.Data.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.BLL\bin\Release\MySql.Data.xml
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\PS.BLL.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\PS.BLL.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\MySql.Data.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\PS.Common.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\MySql.Data.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\MySql.Data.xml
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\bin\Release\PS.Common.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\obj\Release\PS.BLL.csprojResolveAssemblyReference.cache
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\obj\Release\PS.BLL.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.BLL\obj\Release\PS.BLL.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\PS.BLL.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\PS.BLL.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\MySql.Data.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\PS.Common.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\MySql.Data.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\MySql.Data.xml
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\bin\Release\PS.Common.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\obj\Release\PS.BLL.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\obj\Release\PS.BLL.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.BLL\obj\Release\PS.BLL.pdb

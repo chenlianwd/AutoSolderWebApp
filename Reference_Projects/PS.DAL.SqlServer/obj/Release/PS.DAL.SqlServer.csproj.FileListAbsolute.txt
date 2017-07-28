@@ -1,0 +1,38 @@
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.pdb
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.csprojResolveAssemblyReference.cache
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.dll
+D:\Develop_Projects\PS\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.DAL.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\MySql.Data.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\PISLog.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.DAL.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.csprojResolveAssemblyReference.cache
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.DAL.SqlServer.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.DAL.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\MySql.Data.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\ReflowerTester.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\PISLog.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\ReflowerTester.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\PS.Common.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.DAL.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\MySql.Data.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\MySql.Data.xml
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\bin\Release\ReflowerTester.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.csprojResolveAssemblyReference.cache
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\PS.DAL.SqlServer\obj\Release\PS.DAL.SqlServer.pdb

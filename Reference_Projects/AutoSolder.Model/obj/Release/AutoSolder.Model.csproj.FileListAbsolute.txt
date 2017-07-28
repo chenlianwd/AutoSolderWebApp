@@ -1,0 +1,8 @@
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\bin\Release\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\bin\Release\AutoSolder.Model.pdb
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\obj\Release\AutoSolder.Model.dll
+F:\program\PS_src_2017-03-15\Reference_Projects\AutoSolder.Model\obj\Release\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\bin\Release\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\bin\Release\AutoSolder.Model.pdb
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Release\AutoSolder.Model.dll
+E:\安装打包\AutosolderWebApp打包新\PS_src_2017-03-15 - forserver\Reference_Projects\AutoSolder.Model\obj\Release\AutoSolder.Model.pdb
